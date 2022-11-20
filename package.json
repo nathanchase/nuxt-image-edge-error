@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@nuxt/image-edge": "1.0.0-27809804.194d2d6",
+    "@nuxt/test-utils-edge": "3.0.1-rc.0-27814436.13e4f8b",
     "nuxt": "3.0.0"
   }
 }
